@@ -1,0 +1,15 @@
+.texto{
+    font-size:medium;
+      margin-top: 8px;
+}
+.titulo{
+font-size: 14px;
+font-weight: 700px;
+color: #ffff;
+}
+.descripción{
+    width: 123px;
+    height: 17px;
+    font-weight: 400;
+    font-size: 14px;
+}
